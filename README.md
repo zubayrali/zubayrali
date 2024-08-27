@@ -1,16 +1,25 @@
-## Hi there 👋
+👋 Hi, I'm Zubayr Ali
 
-<!--
-**zubayrrr/zubayrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 ServiceNow | 🐧 Linux | ☁️ Cloud | 🌐 Web Technologies
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate ServiceNow developer with expertise in ITSM, ITOM, and CSM. Experienced in customizing and extending the ServiceNow platform to deliver efficient business solutions.
+
+## Skills
+
+- ServiceNow: ITSM, ITOM, CSM, HR Service Delivery
+- Scripting: JavaScript, AngularJS, jQuery
+- Web: HTML5, CSS3, Bootstrap
+- Cloud: AWS, Azure
+- Linux: Ubuntu, CentOS
+- Version Control: Git, GitHub
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-ali-591083231)
+
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=gruvbox)
+
