@@ -10,7 +10,7 @@
   <a href="https://www.credly.com/badges/f7774bfa-412c-4be5-bb23-43f0a6849c05" target="_blank" style="margin: 0 15px;">
     <img src="https://raw.githubusercontent.com/zubayrali/zubayrali/main/certified-application-developer.png" alt="ServiceNow Certified Application Developer" width="150">
   </a>
-
+</div>
 
 ### 🔧 Technical Arsenal
 
@@ -20,22 +20,6 @@
 + Web: AngularJS | HTML5 | CSS3 | Bootstrap | Jelly
 + Cloud/DevOps: AWS | Azure | Git | Jenkins | Docker
 + Methodologies: ITIL v4 | Agile/Scrum | DevOps | AIOps
-
-
-
-### 🚀 Core Capabilities
-```mermaid
-graph LR
-A[ServiceNow Development] --> B[Custom Applications]
-A --> C[Workflow Automation]
-A --> D[System Integration]
-E[Platform Architecture] --> F[Solution Design]
-E --> G[Performance Optimization]
-E --> H[Governance Strategy]
-I[Service Delivery] --> J[ITSM Processes]
-I --> K[CMDB Management]
-I --> L[Service Analytics]
-```
 
 ### 📈 GitHub Stats
 <p align="center">
