@@ -39,10 +39,10 @@
   <a href="https://linkedin.com/in/zubayrali">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" height=30>
   </a>
-  <a href="https://www.credly.com/users/zubayr-ali/badges">
+  <a href="https://www.credly.com/users/mohammed-ali.78558491/badges#credly">
     <img src="https://img.shields.io/badge/-Credly-FF6B00?style=flat-square&logo=Credly&logoColor=white" height=30>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:zubayrali@pm.me">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" height=30>
   </a>
   <a href="https://www.servicenow.com/community/user/viewprofilepage/user-id/451688">
