@@ -45,7 +45,7 @@
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" height=30>
   </a>
-  <a href="https://servicenow.dev">
+  <a href="https://www.servicenow.com/community/user/viewprofilepage/user-id/451688">
     <img src="https://img.shields.io/badge/-ServiceNow Dev-81B5A1?style=flat-square&logo=ServiceNow&logoColor=white" height=30>
   </a>
 </p>
