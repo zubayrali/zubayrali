@@ -10,15 +10,6 @@
   <a href="https://www.credly.com/badges/f7774bfa-412c-4be5-bb23-43f0a6849c05" target="_blank" style="margin: 0 15px;">
     <img src="https://raw.githubusercontent.com/zubayrali/zubayrali/main/certified-application-developer.png" alt="ServiceNow Certified Application Developer" width="150">
   </a>
-  <!-- ITIL Placeholder -->
-  <div style="display: inline-block; margin: 0 15px; vertical-align: top; text-align: center;">
-    <div style="width: 150px; height: 150px; background: #f0f0f0; border-radius: 10px; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      <div style="font-size: 16px; font-weight: bold; margin-bottom: 5px;">ITIL Expert</div>
-      <div style="font-size: 12px;">Coming Soon</div>
-    </div>
-    <div style="margin-top: 10px; font-size: 12px;">(In Progress)</div>
-  </div>
-</div>
 
 
 ### 🔧 Technical Arsenal
