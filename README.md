@@ -24,23 +24,15 @@
 ---
 
 ### 🔧 Technical Arsenal
-```diff
+
 + Platform Expertise: ServiceNow (ITSM, ITAM, ITOM, SPM, HRSD, GRC, SecOps, AIOps)
 + Development: JavaScript | Glide APIs | Flow Designer | UI Builder | App Engine Studio
 + Integration: REST/SOAP APIs | MID Server | OAuth/SAML | JDBC | Web Services
 + Web: AngularJS | HTML5 | CSS3 | Bootstrap | Jelly
 + Cloud/DevOps: AWS | Azure | Git | Jenkins | Docker
 + Methodologies: ITIL v4 | Agile/Scrum | DevOps | AIOps
-```
 
----
 
-### 🏆 Certifications
-[![ServiceNow CSA](https://images.credly.com/size/110x110/images/0562f5d8-2c82-4af2-a5e0-a65c9d0f7e0e/Certified_System_Administrator_-_ServiceNow.png)](https://www.credly.com/badges/badge-id)
-[![ServiceNow CAD](https://images.credly.com/size/110x110/images/5b7dd5a8-6b8b-4f8a-a5b0-5c3b4a6c6b5f/Certified_Application_Developer_-_ServiceNow.png)](https://www.credly.com/badges/badge-id)
-[![ITIL Expert](https://images.credly.com/size/110x110/images/2a6251f2-737f-4f20-ae33-7b0d569e34c1/ITIL-Expert.png)](https://www.credly.com/badges/badge-id)
-
----
 
 ### 🚀 Core Capabilities
 ```mermaid
@@ -67,8 +59,10 @@ I --> L[Service Analytics]
 ---
 
 ### ✍️ Knowledge Philosophy
-> **"Learning in Public" Advocate** • Building a **Personal Knowledge Management System** with Obsidian.md  
-> Documenting ServiceNow patterns, integration blueprints, and implementation strategies  
+> **"Learning in Public" Advocate** • Building a **Personal Knowledge Management System** with Obsidian.md
+> 
+> Documenting ServiceNow patterns, integration blueprints, and implementation strategies
+> 
 > Sharing technical insights through [blog posts/notes] • Curating reusable code snippets
 
 ---
