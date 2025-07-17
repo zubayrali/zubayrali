@@ -19,7 +19,3 @@ Passionate ServiceNow developer with expertise in ITSM, ITOM, and CSM. Experienc
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zubayrali/)
 
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zubayrrr&show_icons=true&theme=gruvbox)
-
