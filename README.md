@@ -20,8 +20,6 @@
   </div>
 </div>
 
-<!-- Rest of README unchanged -->
----
 
 ### 🔧 Technical Arsenal
 
@@ -48,15 +46,11 @@ I --> K[CMDB Management]
 I --> L[Service Analytics]
 ```
 
----
-
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true" alt="Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true" alt="Streak">
 </p>
-
----
 
 ### ✍️ Knowledge Philosophy
 > **"Learning in Public" Advocate** • Building a **Personal Knowledge Management System** with Obsidian.md
@@ -64,8 +58,6 @@ I --> L[Service Analytics]
 > Documenting ServiceNow patterns, integration blueprints, and implementation strategies
 > 
 > Sharing technical insights through [blog posts/notes] • Curating reusable code snippets
-
----
 
 ### 🔗 Connect With Me
 <p align="center">
