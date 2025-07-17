@@ -17,7 +17,7 @@ Passionate ServiceNow developer with expertise in ITSM, ITOM, and CSM. Experienc
 
 ### Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-ali-591083231)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zubayrali/)
 
 ### GitHub Stats
 
