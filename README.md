@@ -1,51 +1,31 @@
-<h1 align="center">👋 Hi, I'm Zubayr Ali</h1>
-<h3 align="center">ServiceNow Architect | CSA & CAD Certified | ITIL Expert | Digital Transformation Specialist</h3>
+# Support Palestine
 
+# Donate via trusted institutions
 
-### 🏆 Certifications
-<div align="center">
-  <a href="https://www.credly.com/badges/a3fbc941-b0dc-42f0-b409-ef21b2ea6bcc" target="_blank" style="margin: 0 15px;">
-    <img src="https://raw.githubusercontent.com/zubayrali/zubayrali/main/certified-system-administrator.png" alt="ServiceNow Certified System Administrator" width="150">
-  </a>
-  <a href="https://www.credly.com/badges/f7774bfa-412c-4be5-bb23-43f0a6849c05" target="_blank" style="margin: 0 15px;">
-    <img src="https://raw.githubusercontent.com/zubayrali/zubayrali/main/certified-application-developer.png" alt="ServiceNow Certified Application Developer" width="150">
-  </a>
-</div>
+**Donate via trusted institutions**
 
-### 🔧 Technical Arsenal
+The best way to financially support Palestine is by donating directly to one of the trusted institutions in your country.
 
-+ Platform Expertise: ServiceNow (ITSM, ITAM, ITOM, SPM, HRSD, GRC, SecOps, AIOps)
-+ Development: JavaScript | Glide APIs | Flow Designer | UI Builder | App Engine Studio
-+ Integration: REST/SOAP APIs | MID Server | OAuth/SAML | JDBC | Web Services
-+ Web: AngularJS | HTML5 | CSS3 | Bootstrap | Jelly
-+ Cloud/DevOps: AWS | Azure | Git | Jenkins | Docker
-+ Methodologies: ITIL v4 | Agile/Scrum | DevOps | AIOps
+**Donate to associations acting in Palestine**
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true" alt="Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true" alt="Streak">
-</p>
+- [Doctors without borders](https://donate.doctorswithoutborders.org/secure/rr-donate-monthly-web?source=ADU2011U0W46) : Provides medical help to palestinians.
+- [WFP - World Food Programme](https://donate.wfp.org/1244/donation/single/?campaign=3493) : Provides food to palestinians.
+- [Palestine red crescent society](https://www.palestinercs.org/en/Donation) : Provides medical help to palestinians.
+- [UNRWA - United Nations Relief and Works](https://donate.unrwa.org/-landing-page/en_EN) : Provides food and cash assistance to palestinians.
+- [Save the children](https://donate.savethechildren.org/en) : Provides protection for children.
+- [Alkhidmat](https://alkhidmat.org/donate) : Provides food and medical help to palestinians.
 
-### ✍️ Knowledge Philosophy
-> **"Learning in Public" Advocate** • Building a **Personal Knowledge Management System** with Obsidian.md
-> 
-> Documenting ServiceNow patterns, integration blueprints, and implementation strategies
-> 
-> Sharing technical insights through [blog posts/notes] • Curating reusable code snippets
+**Other way to support**
 
-### 🔗 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/zubayrali">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" height=30>
-  </a>
-  <a href="https://www.credly.com/users/mohammed-ali.78558491/badges#credly">
-    <img src="https://img.shields.io/badge/-Credly-FF6B00?style=flat-square&logo=Credly&logoColor=white" height=30>
-  </a>
-  <a href="mailto:zubayrali@pm.me">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" height=30>
-  </a>
-  <a href="https://www.servicenow.com/community/user/viewprofilepage/user-id/451688">
-    <img src="https://img.shields.io/badge/-ServiceNow Dev-81B5A1?style=flat-square&logo=ServiceNow&logoColor=white" height=30>
-  </a>
-</p>
+- 🗣 Don’t be silent:
+    - Add banners to your open source project and profile.
+    - Protest against the war in your city.
+    - Demand severe sanctions against Israel and support for Palestine from your leaders.
+    - Reach out to Palestinian friends, offer help.
+- ❌ Boycott Israeli businesses:
+    - Cancel subscriptions and stop giving your money to Israeli software, dependencies and infrastructure companies.
+    - Cancel subscriptions and stop giving your money to companies which support israel.
+    - Suffocate Israeli economy to limit its ability to fund the war!
+- 📰 Resist propaganda:
+    - Educate yourself and others on the Israeli threat.
+    - Check out common misbeliefs.
